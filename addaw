@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head >
+    <title>
+       Nito Space
+    </title> 
+</head>
+
+<body>
+<a>
+
+    <ul>
+   <li>
+    <a>
+        acordar
+    </a>
+</li> 
+</ul>
+
+<ul>
+    <li>
+     <a>
+         comer
+     </a>
+</li> 
+ </ul>
+
+ <ul>
+<li>
+ <a >
+dormir
+</a>
+</li> 
+</ul>
+
+<dl>
+    <dt>    Receita de Bolo    </dt>
+    <dd>2 Ovos    </dd>
+    <dd>.......    </dd>
+    <dd> .....    </dd>
+    <dd>300g de manteiga    </dd>
+
+</dl>
+
+
+</body>
